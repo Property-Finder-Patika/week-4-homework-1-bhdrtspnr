@@ -1,0 +1,354 @@
+INFO: 2022/07/23 12:31:43 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:31:43 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:31:43 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:31:43 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:31:43 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:31:54 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:31:54 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:35:04 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:35:05 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:35:05 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:35:05 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:35:06 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:35:06 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:35:06 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:35:06 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:35:06 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:35:09 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:35:09 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:35:38 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:35:39 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:35:39 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:35:39 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:35:40 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:35:40 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:35:40 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:35:40 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:35:40 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:35:40 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:35:40 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:41:49 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:41:49 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:41:49 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:41:50 calculator.go:53: User input for adding a function is cos...
+INFO: 2022/07/23 12:41:50 calculator.go:55: User called add function method with parameter cos
+INFO: 2022/07/23 12:41:50 calculator.go:78: User input in valid: cos
+INFO: 2022/07/23 12:41:50 calculator.go:88: User matches with cos: cos ... adding a new function to calculator {[{Cos}]} 
+INFO: 2022/07/23 12:41:50 calculator.go:89: Calculator {[{Cos}]}'s current functions are: [{Cos}] 
+INFO: 2022/07/23 12:42:08 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:42:08 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:42:19 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:42:19 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:42:19 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:42:19 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:42:21 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:42:21 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:42:21 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:42:21 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:42:21 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:42:21 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:42:21 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:43:15 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:43:15 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:43:15 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:43:15 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:43:19 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:43:19 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:43:19 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:43:19 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:43:19 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:43:20 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:43:20 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:45:19 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:45:22 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:45:22 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:45:22 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:45:22 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:45:24 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:45:24 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:45:24 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:45:24 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:45:24 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:45:25 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:45:25 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:45:36 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:45:36 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:45:36 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:45:40 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:45:40 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:45:40 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:45:42 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:45:42 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:45:42 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:45:42 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:45:42 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:45:42 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:45:42 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:46:36 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:46:36 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:46:36 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:46:36 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:46:37 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:46:37 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:46:37 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:46:37 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:46:37 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:46:52 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:46:54 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:46:54 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:46:54 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:46:55 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:46:55 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:46:55 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:46:55 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:46:55 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:46:56 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:46:56 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:47:52 calculator.go:32: Calculator created:  {[]} 
+INFO: 2022/07/23 12:47:53 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:47:53 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:47:53 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:47:55 calculator.go:53: User input for adding a function is log...
+INFO: 2022/07/23 12:47:55 calculator.go:55: User called add function method with parameter log
+INFO: 2022/07/23 12:47:55 calculator.go:78: User input in valid: log
+INFO: 2022/07/23 12:47:55 calculator.go:92: User matches with log: log ... adding a new function to calculator {[{Log}]} 
+INFO: 2022/07/23 12:47:55 calculator.go:93: Calculator {[{Log}]}'s current functions are: [{Log}] 
+INFO: 2022/07/23 12:47:57 calculator.go:43: User input for menu is:  2 
+INFO: 2022/07/23 12:47:57 calculator.go:59: Opening calculator menu...
+INFO: 2022/07/23 12:47:58 calculator.go:43: User input for menu is:  3 
+INFO: 2022/07/23 12:47:58 calculator.go:61: Opening view menu...
+INFO: 2022/07/23 12:49:24 calculator.go:43: User input for menu is:  1 
+INFO: 2022/07/23 12:49:24 calculator.go:47: Opening adding a new function menu...
+INFO: 2022/07/23 12:49:24 calculator.go:49: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:49:25 calculator.go:53: User input for adding a function is sin...
+INFO: 2022/07/23 12:49:25 calculator.go:55: User called add function method with parameter sin
+INFO: 2022/07/23 12:49:25 calculator.go:78: User input in valid: sin
+INFO: 2022/07/23 12:49:25 calculator.go:84: User matches with sin: sin ... adding a new function to calculator {[{Sin}]} 
+INFO: 2022/07/23 12:49:25 calculator.go:85: Calculator {[{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:51:58 calculator.go:33: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 12:51:59 calculator.go:44: User input for menu is:  1 
+INFO: 2022/07/23 12:51:59 calculator.go:48: Opening adding a new function menu...
+INFO: 2022/07/23 12:51:59 calculator.go:50: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:52:01 calculator.go:54: User input for adding a function is sin...
+INFO: 2022/07/23 12:52:01 calculator.go:56: User called add function method with parameter sin
+INFO: 2022/07/23 12:52:01 calculator.go:79: User input in valid: sin
+INFO: 2022/07/23 12:52:01 calculator.go:85: User matches with sin: sin ... adding a new function to calculator {Test [{Sin}]} 
+INFO: 2022/07/23 12:52:01 calculator.go:86: Calculator {Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:52:02 calculator.go:44: User input for menu is:  1 
+INFO: 2022/07/23 12:52:02 calculator.go:48: Opening adding a new function menu...
+INFO: 2022/07/23 12:52:02 calculator.go:50: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:52:03 calculator.go:54: User input for adding a function is cos...
+INFO: 2022/07/23 12:52:03 calculator.go:56: User called add function method with parameter cos
+INFO: 2022/07/23 12:52:03 calculator.go:79: User input in valid: cos
+INFO: 2022/07/23 12:52:03 calculator.go:89: User matches with cos: cos ... adding a new function to calculator {Test [{Cos}]} 
+INFO: 2022/07/23 12:52:03 calculator.go:90: Calculator {Test [{Cos}]}'s current functions are: [{Cos}] 
+INFO: 2022/07/23 12:52:35 calculator.go:44: User input for menu is:  1 
+INFO: 2022/07/23 12:52:37 calculator.go:33: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 12:52:38 calculator.go:44: User input for menu is:  1 
+INFO: 2022/07/23 12:52:38 calculator.go:48: Opening adding a new function menu...
+INFO: 2022/07/23 12:52:38 calculator.go:50: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:52:38 calculator.go:54: User input for adding a function is sin...
+INFO: 2022/07/23 12:52:38 calculator.go:56: User called add function method with parameter sin
+INFO: 2022/07/23 12:52:38 calculator.go:79: User input in valid: sin
+INFO: 2022/07/23 12:52:38 calculator.go:85: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 12:52:38 calculator.go:86: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 12:52:39 calculator.go:44: User input for menu is:  1 
+INFO: 2022/07/23 12:52:39 calculator.go:48: Opening adding a new function menu...
+INFO: 2022/07/23 12:52:39 calculator.go:50: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 12:52:40 calculator.go:54: User input for adding a function is cos...
+INFO: 2022/07/23 12:52:40 calculator.go:56: User called add function method with parameter cos
+INFO: 2022/07/23 12:52:40 calculator.go:79: User input in valid: cos
+INFO: 2022/07/23 12:52:40 calculator.go:89: User matches with cos: cos ... adding a new function to calculator &{Test [{Sin} {Cos}]} 
+INFO: 2022/07/23 12:52:40 calculator.go:90: Calculator &{Test [{Sin} {Cos}]}'s current functions are: [{Sin} {Cos}] 
+INFO: 2022/07/23 12:52:41 calculator.go:44: User input for menu is:  3 
+INFO: 2022/07/23 12:52:41 calculator.go:62: Opening view menu...
+INFO: 2022/07/23 12:52:41 calculator.go:107: Appending : Sin 
+INFO: 2022/07/23 12:52:41 calculator.go:107: Appending : Cos 
+INFO: 2022/07/23 13:03:47 calculator.go:35: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 13:03:48 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:03:59 calculator.go:35: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 13:03:59 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:03:59 calculator.go:65: Opening adding a new function menu...
+INFO: 2022/07/23 13:03:59 calculator.go:67: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:04:01 calculator.go:71: User input for adding a function is sin...
+INFO: 2022/07/23 13:04:01 calculator.go:73: User called add function method with parameter sin
+INFO: 2022/07/23 13:04:01 calculator.go:84: User input in valid: sin
+INFO: 2022/07/23 13:04:01 calculator.go:90: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 13:04:01 calculator.go:91: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 13:04:03 calculator.go:46: User input for menu is:  3 
+INFO: 2022/07/23 13:04:03 calculator.go:54: Opening view menu...
+INFO: 2022/07/23 13:04:03 calculator.go:111: Appending : Sin 
+INFO: 2022/07/23 13:04:04 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:04:04 calculator.go:65: Opening adding a new function menu...
+INFO: 2022/07/23 13:04:04 calculator.go:67: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:04:05 calculator.go:71: User input for adding a function is cos...
+INFO: 2022/07/23 13:04:05 calculator.go:73: User called add function method with parameter cos
+INFO: 2022/07/23 13:04:05 calculator.go:84: User input in valid: cos
+INFO: 2022/07/23 13:04:05 calculator.go:94: User matches with cos: cos ... adding a new function to calculator &{Test [{Sin} {Cos}]} 
+INFO: 2022/07/23 13:04:05 calculator.go:95: Calculator &{Test [{Sin} {Cos}]}'s current functions are: [{Sin} {Cos}] 
+INFO: 2022/07/23 13:04:06 calculator.go:46: User input for menu is:  3 
+INFO: 2022/07/23 13:04:06 calculator.go:54: Opening view menu...
+INFO: 2022/07/23 13:04:06 calculator.go:111: Appending : Sin 
+INFO: 2022/07/23 13:04:06 calculator.go:111: Appending : Cos 
+INFO: 2022/07/23 13:04:07 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:04:07 calculator.go:65: Opening adding a new function menu...
+INFO: 2022/07/23 13:04:07 calculator.go:67: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:04:09 calculator.go:71: User input for adding a function is zimbabwe...
+INFO: 2022/07/23 13:04:09 calculator.go:73: User called add function method with parameter zimbabwe
+WARNING: 2022/07/23 13:04:09 calculator.go:80: addFunction: User input is invalid!: zimbabwe
+INFO: 2022/07/23 13:04:14 calculator.go:46: User input for menu is:  3 
+INFO: 2022/07/23 13:04:14 calculator.go:54: Opening view menu...
+INFO: 2022/07/23 13:04:14 calculator.go:111: Appending : Sin 
+INFO: 2022/07/23 13:04:14 calculator.go:111: Appending : Cos 
+INFO: 2022/07/23 13:05:11 calculator.go:35: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 13:05:11 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:05:11 calculator.go:65: Opening adding a new function menu...
+INFO: 2022/07/23 13:05:11 calculator.go:67: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:05:13 calculator.go:71: User input for adding a function is sin...
+INFO: 2022/07/23 13:05:13 calculator.go:73: User called add function method with parameter sin
+INFO: 2022/07/23 13:05:13 calculator.go:85: User input in valid: sin
+INFO: 2022/07/23 13:05:13 calculator.go:91: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 13:05:13 calculator.go:92: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 13:05:48 calculator.go:35: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 13:05:48 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:05:48 calculator.go:65: Opening adding a new function menu...
+INFO: 2022/07/23 13:05:48 calculator.go:67: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:05:49 calculator.go:71: User input for adding a function is sin...
+INFO: 2022/07/23 13:05:49 calculator.go:73: User called add function method with parameter sin
+INFO: 2022/07/23 13:05:49 calculator.go:85: User input in valid: sin
+INFO: 2022/07/23 13:05:49 calculator.go:91: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 13:05:49 calculator.go:92: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 13:05:56 calculator.go:35: Calculator created:  {%!t(string=Test) []} 
+INFO: 2022/07/23 13:05:56 calculator.go:46: User input for menu is:  1 
+INFO: 2022/07/23 13:05:56 calculator.go:65: Opening adding a new function menu...
+INFO: 2022/07/23 13:05:56 calculator.go:67: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:05:58 calculator.go:71: User input for adding a function is sin...
+INFO: 2022/07/23 13:05:58 calculator.go:73: User called add function method with parameter sin
+INFO: 2022/07/23 13:05:58 calculator.go:85: User input in valid: sin
+INFO: 2022/07/23 13:05:58 calculator.go:91: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 13:05:58 calculator.go:92: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 13:15:32 calculator.go:41: Calculator created:  {Test []} 
+INFO: 2022/07/23 13:15:33 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:15:33 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:15:33 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:15:35 calculator.go:88: User input for adding a function is sin...
+INFO: 2022/07/23 13:15:35 calculator.go:90: User called add function method with parameter sin
+INFO: 2022/07/23 13:15:35 calculator.go:102: User input in valid: sin
+INFO: 2022/07/23 13:15:35 calculator.go:108: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 13:15:35 calculator.go:109: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 13:15:36 calculator.go:52: User input for menu is:  2 
+INFO: 2022/07/23 13:15:36 calculator.go:58: Opening calculator menu...
+WARNING: 2022/07/23 13:15:42 calculator.go:19: doCalculation: User input is invalid!: Sin
+INFO: 2022/07/23 13:16:02 calculator.go:41: Calculator created:  {Test []} 
+INFO: 2022/07/23 13:16:03 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:16:03 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:16:03 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:16:06 calculator.go:88: User input for adding a function is sin...
+INFO: 2022/07/23 13:16:06 calculator.go:90: User called add function method with parameter sin
+INFO: 2022/07/23 13:16:06 calculator.go:102: User input in valid: sin
+INFO: 2022/07/23 13:16:06 calculator.go:108: User matches with sin: sin ... adding a new function to calculator &{Test [{Sin}]} 
+INFO: 2022/07/23 13:16:06 calculator.go:109: Calculator &{Test [{Sin}]}'s current functions are: [{Sin}] 
+INFO: 2022/07/23 13:16:07 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:16:07 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:16:07 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:16:08 calculator.go:88: User input for adding a function is cos...
+INFO: 2022/07/23 13:16:08 calculator.go:90: User called add function method with parameter cos
+INFO: 2022/07/23 13:16:08 calculator.go:102: User input in valid: cos
+INFO: 2022/07/23 13:16:08 calculator.go:112: User matches with cos: cos ... adding a new function to calculator &{Test [{Sin} {Cos}]} 
+INFO: 2022/07/23 13:16:08 calculator.go:113: Calculator &{Test [{Sin} {Cos}]}'s current functions are: [{Sin} {Cos}] 
+INFO: 2022/07/23 13:16:09 calculator.go:52: User input for menu is:  2 
+INFO: 2022/07/23 13:16:09 calculator.go:58: Opening calculator menu...
+WARNING: 2022/07/23 13:16:36 calculator.go:19: doCalculation: User input is invalid!: Sin
+INFO: 2022/07/23 13:17:20 calculator.go:41: Calculator created:  {Test []} 
+INFO: 2022/07/23 13:17:21 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:17:21 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:17:21 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:17:21 calculator.go:88: User input for adding a function is sin...
+INFO: 2022/07/23 13:17:21 calculator.go:90: User called add function method with parameter sin
+INFO: 2022/07/23 13:17:21 calculator.go:102: User input in valid: sin
+INFO: 2022/07/23 13:17:21 calculator.go:108: User matches with sin: sin ... adding a new function to calculator &{Test [{sin}]} 
+INFO: 2022/07/23 13:17:21 calculator.go:109: Calculator &{Test [{sin}]}'s current functions are: [{sin}] 
+INFO: 2022/07/23 13:17:40 calculator.go:41: Calculator created:  {Test []} 
+INFO: 2022/07/23 13:17:41 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:17:41 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:17:41 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:17:43 calculator.go:88: User input for adding a function is sin...
+INFO: 2022/07/23 13:17:43 calculator.go:90: User called add function method with parameter sin
+INFO: 2022/07/23 13:17:43 calculator.go:102: User input in valid: sin
+INFO: 2022/07/23 13:17:43 calculator.go:108: User matches with sin: sin ... adding a new function to calculator &{Test [{sin}]} 
+INFO: 2022/07/23 13:17:43 calculator.go:109: Calculator &{Test [{sin}]}'s current functions are: [{sin}] 
+INFO: 2022/07/23 13:17:57 calculator.go:41: Calculator created:  {Test []} 
+INFO: 2022/07/23 13:17:57 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:17:57 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:17:57 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:18:00 calculator.go:88: User input for adding a function is sin...
+INFO: 2022/07/23 13:18:00 calculator.go:90: User called add function method with parameter sin
+INFO: 2022/07/23 13:18:00 calculator.go:102: User input in valid: sin
+INFO: 2022/07/23 13:18:00 calculator.go:108: User matches with sin: sin ... adding a new function to calculator &{Test [{sin}]} 
+INFO: 2022/07/23 13:18:00 calculator.go:109: Calculator &{Test [{sin}]}'s current functions are: [{sin}] 
+INFO: 2022/07/23 13:18:03 calculator.go:52: User input for menu is:  3 
+INFO: 2022/07/23 13:18:03 calculator.go:71: Opening view menu...
+INFO: 2022/07/23 13:18:03 calculator.go:129: Appending : sin 
+INFO: 2022/07/23 13:18:04 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:18:04 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:18:04 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:18:05 calculator.go:88: User input for adding a function is cos...
+INFO: 2022/07/23 13:18:05 calculator.go:90: User called add function method with parameter cos
+INFO: 2022/07/23 13:18:05 calculator.go:102: User input in valid: cos
+INFO: 2022/07/23 13:18:05 calculator.go:112: User matches with cos: cos ... adding a new function to calculator &{Test [{sin} {cos}]} 
+INFO: 2022/07/23 13:18:05 calculator.go:113: Calculator &{Test [{sin} {cos}]}'s current functions are: [{sin} {cos}] 
+INFO: 2022/07/23 13:18:06 calculator.go:52: User input for menu is:  3 
+INFO: 2022/07/23 13:18:06 calculator.go:71: Opening view menu...
+INFO: 2022/07/23 13:18:06 calculator.go:129: Appending : sin 
+INFO: 2022/07/23 13:18:06 calculator.go:129: Appending : cos 
+INFO: 2022/07/23 13:18:07 calculator.go:52: User input for menu is:  2 
+INFO: 2022/07/23 13:18:07 calculator.go:58: Opening calculator menu...
+INFO: 2022/07/23 13:18:09 calculator.go:52: User input for menu is:  2 
+INFO: 2022/07/23 13:18:09 calculator.go:58: Opening calculator menu...
+INFO: 2022/07/23 13:34:19 calculator.go:52: User input for menu is:  1 
+INFO: 2022/07/23 13:34:19 calculator.go:82: Opening adding a new function menu...
+INFO: 2022/07/23 13:34:19 calculator.go:84: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:34:20 calculator.go:88: User input for adding a function is log...
+INFO: 2022/07/23 13:34:20 calculator.go:90: User called add function method with parameter log
+INFO: 2022/07/23 13:34:20 calculator.go:102: User input in valid: log
+INFO: 2022/07/23 13:34:20 calculator.go:116: User matches with log: log ... adding a new function to calculator &{Test [{sin} {cos} {log}]} 
+INFO: 2022/07/23 13:34:20 calculator.go:117: Calculator &{Test [{sin} {cos} {log}]}'s current functions are: [{sin} {cos} {log}] 
+INFO: 2022/07/23 13:34:21 calculator.go:52: User input for menu is:  3 
+INFO: 2022/07/23 13:34:21 calculator.go:71: Opening view menu...
+INFO: 2022/07/23 13:34:21 calculator.go:129: Appending : sin 
+INFO: 2022/07/23 13:34:21 calculator.go:129: Appending : cos 
+INFO: 2022/07/23 13:34:21 calculator.go:129: Appending : log 
+INFO: 2022/07/23 13:34:23 calculator.go:52: User input for menu is:  2 
+INFO: 2022/07/23 13:34:23 calculator.go:58: Opening calculator menu...
+INFO: 2022/07/23 13:36:32 calculator.go:52: User input for menu is:  2 
+INFO: 2022/07/23 13:36:34 calculator.go:42: Calculator created:  {Test []} 
+INFO: 2022/07/23 13:36:34 calculator.go:53: User input for menu is:  1 
+INFO: 2022/07/23 13:36:34 calculator.go:83: Opening adding a new function menu...
+INFO: 2022/07/23 13:36:34 calculator.go:85: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:36:36 calculator.go:89: User input for adding a function is log...
+INFO: 2022/07/23 13:36:36 calculator.go:91: User called add function method with parameter log
+INFO: 2022/07/23 13:36:36 calculator.go:103: User input in valid: log
+INFO: 2022/07/23 13:36:36 calculator.go:117: User matches with log: log ... adding a new function to calculator &{Test [{log}]} 
+INFO: 2022/07/23 13:36:36 calculator.go:118: Calculator &{Test [{log}]}'s current functions are: [{log}] 
+INFO: 2022/07/23 13:36:41 calculator.go:53: User input for menu is:  2 
+INFO: 2022/07/23 13:36:41 calculator.go:59: Opening calculator menu...
+INFO: 2022/07/23 13:36:44 calculator.go:28: doCalculation: Result of the calculation is: : 2.302585
+INFO: 2022/07/23 13:36:47 calculator.go:53: User input for menu is:  3 
+INFO: 2022/07/23 13:36:47 calculator.go:72: Opening view menu...
+INFO: 2022/07/23 13:36:47 calculator.go:130: Appending : log 
+INFO: 2022/07/23 13:36:48 calculator.go:53: User input for menu is:  1 
+INFO: 2022/07/23 13:36:48 calculator.go:83: Opening adding a new function menu...
+INFO: 2022/07/23 13:36:48 calculator.go:85: Printing valid functions... [sin cos log] 
+INFO: 2022/07/23 13:36:49 calculator.go:89: User input for adding a function is sin...
+INFO: 2022/07/23 13:36:49 calculator.go:91: User called add function method with parameter sin
+INFO: 2022/07/23 13:36:49 calculator.go:103: User input in valid: sin
+INFO: 2022/07/23 13:36:49 calculator.go:109: User matches with sin: sin ... adding a new function to calculator &{Test [{log} {sin}]} 
+INFO: 2022/07/23 13:36:49 calculator.go:110: Calculator &{Test [{log} {sin}]}'s current functions are: [{log} {sin}] 
+INFO: 2022/07/23 13:36:58 calculator.go:53: User input for menu is:  3 
+INFO: 2022/07/23 13:36:58 calculator.go:72: Opening view menu...
+INFO: 2022/07/23 13:36:58 calculator.go:130: Appending : log 
+INFO: 2022/07/23 13:36:58 calculator.go:130: Appending : sin 
+INFO: 2022/07/23 13:37:03 calculator.go:53: User input for menu is:  2 
+INFO: 2022/07/23 13:37:03 calculator.go:59: Opening calculator menu...
+INFO: 2022/07/23 13:37:07 calculator.go:28: doCalculation: Result of the calculation is: : -0.132352
+INFO: 2022/07/23 13:38:56 calculator.go:53: User input for menu is:  2 
