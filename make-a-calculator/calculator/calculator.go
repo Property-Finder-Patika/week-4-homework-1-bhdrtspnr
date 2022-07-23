@@ -54,13 +54,10 @@ func startCalculator() {
 
 		switch userMenuInput {
 		case "1":
-			appLogger.Info().Printf("Opening do add function menu...\n")
 			addFunctionMenu()
 		case "2":
-			appLogger.Info().Printf("Opening do calculation menu...\n")
 			doCalculationMenu()
 		case "3":
-			appLogger.Info().Printf("Opening view menu...\n")
 			fmt.Printf("%v \n", myCalculator.viewFunctions())
 
 		default:
@@ -98,6 +95,17 @@ func addFunctionMenu() {
 	fmt.Println(*returnMessage)
 }
 
+func (c *Calculator) viewFunctions() []string {
+	appLogger.Info().Printf("Opening view menu...\n")
+	functionNames := make([]string, 0)
+	for i := 0; i < len(c.functions); i++ {
+		functionNames = append(functionNames, c.functions[i].GetName())
+		appLogger.Info().Printf("Appending : %s \n", c.functions[i].GetName())
+	}
+	return functionNames
+
+}
+
 func (c *Calculator) addFunction(name string) (*string, error) {
 	name = strings.ToLower(name)
 	if !mathFunction.CheckValidFunction(name) {
@@ -125,15 +133,5 @@ func (c *Calculator) addFunction(name string) (*string, error) {
 		appLogger.Fatal().Printf("UNKNOWN ERROR HAPPENED!")
 	}
 	return &successMessage, nil
-
-}
-
-func (c *Calculator) viewFunctions() []string {
-	functionNames := make([]string, 0)
-	for i := 0; i < len(c.functions); i++ {
-		functionNames = append(functionNames, c.functions[i].GetName())
-		appLogger.Info().Printf("Appending : %s \n", c.functions[i].GetName())
-	}
-	return functionNames
 
 }
